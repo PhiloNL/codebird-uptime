@@ -4,13 +4,6 @@ repo: codebird-uptime # Your GitHub repository name
 
 # Add your sites here
 sites:
-  - name: Quotify
-    url: https://quotify.codebird.nl
-    expectedStatusCodes:
-      - 301
-      - 200
-    assignees:
-      - PhiloNL
 
 status-website:
   # Add your custom domain below, or remove the next line if you don't have a domain
